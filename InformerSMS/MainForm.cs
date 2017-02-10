@@ -93,6 +93,7 @@ namespace InformerSMS
                 string SendMessege = $"Тестовое сообщение! Проверка уведомлений!";
                 string api = $"http://api.smsfeedback.ru/messages/v2/send/?phone={Properties.Settings.Default.numberPhone}&text={SendMessege}&login={Properties.Settings.Default.login}&password={Properties.Settings.Default.password}";
                 string resoult = apiClient.DownloadString(api);
+                MetroMessageBox.Show(this, "Готово! Ждите...", "Успешно!", MessageBoxButtons.OK, MessageBoxIcon.Information);
             }
             catch { MetroMessageBox.Show(this, "Ошибка авторизации!", "Ошибка!", MessageBoxButtons.OK, MessageBoxIcon.Error); }
         }

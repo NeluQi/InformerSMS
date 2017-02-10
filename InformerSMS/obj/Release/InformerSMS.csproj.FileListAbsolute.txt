@@ -9,3 +9,4 @@ D:\Developer_Project\VS15\InformerSMS\InformerSMS\bin\Release\MetroFramework.dll
 D:\Developer_Project\VS15\InformerSMS\InformerSMS\bin\Release\MetroFramework.Fonts.dll
 D:\Developer_Project\VS15\InformerSMS\InformerSMS\obj\Release\InformerSMS.exe
 D:\Developer_Project\VS15\InformerSMS\InformerSMS\obj\Release\InformerSMS.pdb
+D:\Developer_Project\VS15\InformerSMS\InformerSMS\obj\Release\InformerSMS.csprojResolveAssemblyReference.cache
