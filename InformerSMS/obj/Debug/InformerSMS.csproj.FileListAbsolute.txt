@@ -1,0 +1,12 @@
+D:\Developer_Project\VS15\InformerSMS\InformerSMS\bin\Debug\InformerSMS.exe.config
+D:\Developer_Project\VS15\InformerSMS\InformerSMS\bin\Debug\InformerSMS.exe
+D:\Developer_Project\VS15\InformerSMS\InformerSMS\bin\Debug\InformerSMS.pdb
+D:\Developer_Project\VS15\InformerSMS\InformerSMS\bin\Debug\MetroFramework.dll
+D:\Developer_Project\VS15\InformerSMS\InformerSMS\bin\Debug\MetroFramework.Fonts.dll
+D:\Developer_Project\VS15\InformerSMS\InformerSMS\obj\Debug\InformerSMS.MainForm.resources
+D:\Developer_Project\VS15\InformerSMS\InformerSMS\obj\Debug\InformerSMS.Properties.Resources.resources
+D:\Developer_Project\VS15\InformerSMS\InformerSMS\obj\Debug\InformerSMS.csproj.GenerateResource.Cache
+D:\Developer_Project\VS15\InformerSMS\InformerSMS\obj\Debug\InformerSMS.exe
+D:\Developer_Project\VS15\InformerSMS\InformerSMS\obj\Debug\InformerSMS.pdb
+D:\Developer_Project\VS15\InformerSMS\InformerSMS\bin\Debug\MetroFramework.Design.dll
+D:\Developer_Project\VS15\InformerSMS\InformerSMS\obj\Debug\InformerSMS.csprojResolveAssemblyReference.cache
